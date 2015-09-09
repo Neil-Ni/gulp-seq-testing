@@ -1,0 +1,11 @@
+{
+  "name": "small-gulp-trick-example",
+  "version": "0.0.1",
+  "description": "small gulp trick example",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "lodash": "^3.10.1",
+    "wrench": "^1.5.8"
+  }
+}
